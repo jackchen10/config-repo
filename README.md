@@ -1,2 +1,2 @@
 # config-repo
-用来存放配置文件
+用来存放springcloud配置文件
